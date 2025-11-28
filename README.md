@@ -5,21 +5,6 @@ Search for any city to get the current weather with a sleek UI and smooth animat
 
 ---
 
-## Folder Structure
-
-mini-project-react/
-├─ public/
-├─ src/
-│  ├─ App.jsx
-│  ├─ WeatherApp.jsx
-│  ├─ InfoBox.jsx
-│  ├─ SearchBox.jsx
-│  ├─ index.css
-│  └─ main.jsx
-├─ package.json
-├─ vite.config.js
-└─ README.md
-
 
 ## Features
 
@@ -31,17 +16,11 @@ mini-project-react/
 
 ---
 
-## Live Preview
-
-![Weather App Screenshot](screenshot.png)  
-*Add a screenshot of your app here*
-
----
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<05Waleed>/mini-project-react.git
+git clone https://github.com/05Waleed/Weather-App
 cd mini-project-react
